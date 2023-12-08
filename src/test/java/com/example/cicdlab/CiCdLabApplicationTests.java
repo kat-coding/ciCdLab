@@ -11,6 +11,7 @@ class CiCdLabApplicationTests {
 
     @Test
     void contextLoads() {
+        CiCdLabApplication.main(new String[] {});
     }
     @Test
     void getSides() {
